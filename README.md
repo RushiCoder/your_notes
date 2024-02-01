@@ -15,6 +15,7 @@
 ### Demo Screeshots :
 ![Screenshot (110)](https://github.com/RushiCoder/your_notes/assets/114005115/077c0fdf-bb63-4d01-bb19-8b6bd3df7b24)
 
+<hr>
 
 ![Screenshot (111)](https://github.com/RushiCoder/your_notes/assets/114005115/08272c1b-dd33-4109-9c9c-c9223ad4f123)
 
